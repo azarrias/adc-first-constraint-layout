@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstConstraintLayout</string>
+    <string name="textView2Str">Hello</string>
 </resources>
